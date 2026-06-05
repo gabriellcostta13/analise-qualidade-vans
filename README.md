@@ -1,84 +1,84 @@
-# Analise de Qualidade - Vans Old Skool Black Gum
+# Análise de Qualidade - Vans Old Skool Black Gum
 
-Projeto de QA manual focado na analise qualitativa do tenis **Vans Old Skool Black Gum**, aplicando conceitos de Quality Assurance em um produto fisico de uso cotidiano.
+Projeto de QA manual focado na análise qualitativa do tênis **Vans Old Skool Black Gum**, aplicando conceitos de Quality Assurance em um produto físico de uso cotidiano.
 
-O objetivo foi transformar uma experiencia real de uso em uma documentacao estruturada, com criterios de avaliacao, evidencias, pontos positivos, oportunidades de melhoria e conclusao tecnica.
+O objetivo foi transformar uma experiência real de uso em uma documentação estruturada, com critérios de avaliação, evidências, pontos positivos, oportunidades de melhoria e conclusão técnica.
 
 ## Sobre o Projeto
 
-Este projeto apresenta uma avaliacao manual de qualidade baseada na observacao pratica do produto ao longo do tempo. A analise considera aspectos importantes para um processo de QA, como:
+Este projeto apresenta uma avaliação manual de qualidade baseada na observação prática do produto ao longo do tempo. A análise considera aspectos importantes para um processo de QA, como:
 
 - Usabilidade
-- Materia-prima
+- Matéria-prima
 - Performance
 - Design
 - Durabilidade
-- Evidencias visuais
+- Evidências visuais
 - Oportunidades de melhoria
 
-A proposta simula uma rotina de qualidade aplicada a um produto fisico: observar, registrar, comparar criterios, identificar riscos e documentar conclusoes de forma clara.
+A proposta simula uma rotina de qualidade aplicada a um produto físico: observar, registrar, comparar critérios, identificar riscos e documentar conclusões de forma clara.
 
 ## Produto Analisado
 
-- **Produto:** Tenis Vans Old Skool Black Gum
+- **Produto:** Tênis Vans Old Skool Black Gum
 - **Fabricante:** Vans
 - **Tipo de uso:** Urbano e casual
-- **Contexto da analise:** Uso recorrente da marca ao longo dos anos
-- **Durabilidade observada:** Media de quatro a seis anos em uso casual
+- **Contexto da análise:** Uso recorrente da marca ao longo dos anos
+- **Durabilidade observada:** Média de quatro a seis anos em uso casual
 
-## Criterios de Avaliacao
+## Critérios de Avaliação
 
-| Criterio | Percepcao registrada |
+| Critério | Percepção registrada |
 | --- | --- |
-| Usabilidade | Confortavel para uso cotidiano, com possivel ajuste lateral estreito para pes mais largos. |
-| Materia-prima | Cabedal em lona e camurca com boa resistencia estrutural. |
-| Performance | Boa estabilidade e aderencia para uso urbano. |
-| Design | Estetica classica, versatil e alinhada ao publico-alvo da marca. |
-| Durabilidade | Vida util media elevada quando utilizado em atividades casuais. |
+| Usabilidade | Confortável para uso cotidiano, com possível ajuste lateral estreito para pés mais largos. |
+| Matéria-prima | Cabedal em lona e camurça com boa resistência estrutural. |
+| Performance | Boa estabilidade e aderência para uso urbano. |
+| Design | Estética clássica, versátil e alinhada ao público-alvo da marca. |
+| Durabilidade | Vida útil média elevada quando utilizado em atividades casuais. |
 
 ## Pontos Positivos
 
-- Boa resistencia estrutural.
+- Boa resistência estrutural.
 - Solado aderente para caminhada e uso urbano.
-- Cabedal firme mesmo apos longo periodo de utilizacao.
-- Design classico e versatil.
-- Durabilidade acima da media para a categoria em uso casual.
+- Cabedal firme mesmo após longo período de utilização.
+- Design clássico e versátil.
+- Durabilidade acima da média para a categoria em uso casual.
 - Identidade visual forte e facilmente reconhecida.
 
 ## Oportunidades de Melhoria
 
-- Tendencia ao desbotamento em areas pretas.
-- Possivel desgaste na regiao traseira do calcanhar.
-- Ajuste lateral mais estreito para determinados perfis de usuarios.
-- Necessidade de atencao ergonomica para pessoas com pes mais largos.
+- Tendência ao desbotamento em áreas pretas.
+- Possível desgaste na região traseira do calcanhar.
+- Ajuste lateral mais estreito para determinados perfis de usuários.
+- Necessidade de atenção ergonômica para pessoas com pés mais largos.
 
-## Evidencias
+## Evidências
 
-O relatorio documenta a analise com evidencia visual do modelo Vans Old Skool Black Gum, usada como referencia para os criterios avaliados.
+O relatório documenta a análise com evidência visual do modelo Vans Old Skool Black Gum, usada como referência para os critérios avaliados.
 
 Arquivo principal do projeto:
 
 [TRABALHO_ANALISE_QUALIDADE_VANS_25-02-2026.docx](./TRABALHO_ANALISE_QUALIDADE_VANS_25-02-2026.docx)
 
-## Competencias de QA Demonstradas
+## Competências de QA Demonstradas
 
-Este projeto reforca habilidades importantes para a area de Quality Assurance:
+Este projeto reforça habilidades importantes para a área de Quality Assurance:
 
-- Analise critica de produto.
-- Observacao orientada por criterios de qualidade.
-- Organizacao de evidencias.
-- Escrita de relatorio tecnico.
-- Identificacao de pontos fortes e riscos.
+- Análise crítica de produto.
+- Observação orientada por critérios de qualidade.
+- Organização de evidências.
+- Escrita de relatório técnico.
+- Identificação de pontos fortes e riscos.
 - Registro de oportunidades de melhoria.
-- Comunicacao clara de resultados.
-- Mentalidade de melhoria continua.
+- Comunicação clara de resultados.
+- Mentalidade de melhoria contínua.
 
-## Conclusao
+## Conclusão
 
-A analise permitiu aplicar conceitos de QA em um produto fisico, demonstrando que qualidade nao se limita a software. O trabalho mostra como uma avaliacao estruturada pode transformar percepcoes de uso em informacoes tecnicas uteis para tomada de decisao, melhoria de produto e documentacao profissional.
+A análise permitiu aplicar conceitos de QA em um produto físico, demonstrando que qualidade não se limita a software. O trabalho mostra como uma avaliação estruturada pode transformar percepções de uso em informações técnicas úteis para tomada de decisão, melhoria de produto e documentação profissional.
 
-De forma geral, o Vans Old Skool Black Gum cumpre bem sua proposta de uso urbano e casual, apresentando equilibrio entre conforto, resistencia, funcionalidade e design, com alguns pontos de atencao relacionados a desgaste estetico e adaptacao ergonomica.
+De forma geral, o Vans Old Skool Black Gum cumpre bem sua proposta de uso urbano e casual, apresentando equilíbrio entre conforto, resistência, funcionalidade e design, com alguns pontos de atenção relacionados a desgaste estético e adaptação ergonômica.
 
-## Referencia
+## Referência
 
-VANS. Old Skool Black Gum. Disponivel em: https://www.vans.com.br
+VANS. Old Skool Black Gum. Disponível em: https://www.vans.com.br
