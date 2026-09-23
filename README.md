@@ -1,85 +1,56 @@
 # 🔎 Análise de Qualidade — Vans Old Skool Black Gum
 
-Projeto de **análise qualitativa** desenvolvido para praticar princípios de Quality Assurance relacionados à definição de critérios, observação, coleta de evidências, identificação de riscos e documentação de resultados.
+Projeto acadêmico de análise estruturada da qualidade de um produto
+físico, utilizando critérios de avaliação relacionados à experiência de
+uso.
 
-O projeto utiliza um produto físico como objeto de análise para demonstrar que conceitos de qualidade também podem ser aplicados fora do contexto de software.
+> **Observação:** este projeto não é um teste de software. Ele demonstra
+> a aplicação de uma abordagem estruturada de análise de qualidade em um
+> produto físico.
 
-> Este projeto não representa um teste de software. Ele demonstra principalmente a aplicação de uma **mentalidade orientada à qualidade, critérios e evidências**.
+## 🎯 Produto analisado
 
-## 🎯 Objetivo
+**Vans Old Skool Black Gum**
 
-Transformar uma experiência prática de utilização em uma análise estruturada, utilizando critérios previamente definidos e registrando evidências observadas.
+A análise considera o uso casual/urbano e aspectos relacionados à
+experiência de utilização do produto.
 
-A análise considera:
+## 🔍 Critérios analisados
 
-* Usabilidade;
-* Matéria-prima;
-* Performance;
-* Design;
-* Durabilidade;
-* Evidências visuais;
-* Pontos de atenção;
-* Oportunidades de melhoria.
+- Usabilidade
+- Materiais
+- Comportamento em uso
+- Design
+- Durabilidade
 
-## 👟 Produto analisado
+## ⚠️ Pontos observados
 
-* **Produto:** Vans Old Skool Black Gum
-* **Fabricante:** Vans
-* **Tipo de utilização:** Urbano e casual
-* **Contexto:** Uso recorrente
-* **Durabilidade observada:** Aproximadamente quatro a seis anos em uso casual
+Durante a análise foram considerados aspectos como:
 
-## 📊 Critérios de avaliação
+- Desgaste da região do calcanhar
+- Desbotamento
+- Ajuste lateral
+- Ergonomia
+- Resistência ao uso contínuo
 
-| Critério          | Observação                                                                                                     |
-| ----------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Usabilidade**   | Confortável para uso cotidiano, com possível ajuste lateral mais estreito para determinados perfis de usuário. |
-| **Matéria-prima** | Cabedal em lona e camurça com boa resistência estrutural.                                                      |
-| **Performance**   | Boa estabilidade e aderência para utilização urbana.                                                           |
-| **Design**        | Estética clássica e versátil.                                                                                  |
-| **Durabilidade**  | Boa vida útil quando utilizado em atividades casuais.                                                          |
+## 📄 Relatório
 
-## ⚠️ Pontos de atenção
+O relatório completo da análise está disponível no repositório:
 
-Durante a análise foram observados alguns pontos que podem representar oportunidades de melhoria:
+`TRABALHO_ANALISE_QUALIDADE_VANS_25-02-2026.docx`
 
-* Desbotamento de áreas pretas ao longo do uso;
-* Desgaste na região traseira do calcanhar;
-* Ajuste lateral potencialmente estreito para determinados perfis;
-* Necessidade de atenção ergonômica para usuários com pés mais largos.
+## 📌 Objetivo do projeto
 
-## 📸 Evidências
+Demonstrar capacidade de:
 
-O projeto possui documentação visual utilizada como suporte para os critérios avaliados.
+- Definir critérios de qualidade
+- Estruturar uma análise
+- Identificar pontos positivos e negativos
+- Registrar observações
+- Organizar resultados em um relatório
 
-Relatório completo:
+## 👤 Autor
 
-[TRABALHO_ANALISE_QUALIDADE_VANS_25-02-2026.docx](./TRABALHO_ANALISE_QUALIDADE_VANS_25-02-2026.docx)
+**Gabriel Costa \| Quality Assurance (QA)**
 
-## 🧠 Competências relacionadas a QA
-
-Este projeto demonstra práticas que também fazem parte da rotina de qualidade:
-
-* Definição de critérios;
-* Observação estruturada;
-* Análise crítica;
-* Registro de evidências;
-* Identificação de riscos;
-* Documentação;
-* Comunicação de resultados;
-* Identificação de oportunidades de melhoria;
-* Mentalidade de melhoria contínua.
-
-## 💡 O que este projeto demonstra
-
-O principal objetivo é demonstrar uma forma de pensar orientada à qualidade:
-
-**definir critérios → observar → coletar evidências → identificar problemas → documentar → propor melhorias.**
-
-Essa abordagem é aplicável a diferentes contextos de avaliação e complementa a formação em Quality Assurance.
-
-## 👨‍💻 Autor
-
-**Gabriel Costa**
-
-Quality Assurance (QA) | Testes Manuais | Automação de Testes em desenvolvimento
+[GitHub](https://github.com/gabriellcostta13)
